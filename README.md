@@ -33,6 +33,24 @@
 
 ### Rubber Ducky
 
+One flag consisted of setting up a Raspberry Pi Pico as a rubber ducky usb driver to steal a flag on a cisco machine. 
+
+#### So what is a rubber ducky ? 
+![Rubber Ducky](/Assets/ducky.png)
+
+A rubber ducky is  a small USB device that looks like an ordinary USB flash drive but behaves like a keyboard when plugged into a computer. It's essentially a keystroke injection tool.
+
+- Automated Script Execution
+- Password Theft 
+- Physical Access Attacks
+
+#### You can make it for cheap : 
+
+![Cheaper Rubber Ducky](/Assets/pico.png)
+
+- https://github.com/dbisu/pico-ducky
+- https://workbook.securityboat.net/hardware-security/raspberry-pi/projects/usb-rubber-ducky-using-raspberry-pi-pico
+
 ### Web / Source-Code 
 
 ### Lock - Picking
