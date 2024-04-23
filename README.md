@@ -3,12 +3,15 @@
 ## Our mindset going to the CTF
 
 - Curious
-- Worried that it might be too difficult 
-- add things and let's format a mini text later
+- Worried that it might be too difficult
 
 ## At the CTF
 
 ### What was asked ?
+
+![Flags](/Assets/whatwedid.png)
+
+![Score Graph](/Assets/graph.png)
 
 ### What are tools that can help on a CTF ?
 
@@ -107,7 +110,18 @@ This challenges highlighted the importance of thorough inspection of all accessi
 
 ## Lock - Picking
 
+![Lock Picking Guide](/Assets/lockpick.png)
+
+![Da Vinci Code](/Assets/davinci.png)
+
 ## John The Ripper
+
+ Jack the Ripper: 
+Suite à un incident de sécurité sur le réseau ferroviaire de la SNCB, nous avons réussi à récupérer le hash du compte administrateur, compromis. Il est impératif de le retrouver. Hash : 969ADA488CB1F60FDC2D26BA9FC89529 Format de réponse : RED{MotDepasseSuggéré} 
+Vous êtes plutôt John l'Éventreur ou hachi de chat ?
+
+the hash format is not specified - so  I used 'hashid' and then jack with the given kali wordlist - rockyou.txt
+john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt --rules hash.txt
 
 ## Conclusion 
 
@@ -118,8 +132,19 @@ This challenges highlighted the importance of thorough inspection of all accessi
 - Specialise
 - Don't hesitate to use any tool
 - Take the train
+- We had fun, will do it again ! 
 
 ### Sabotaging
 
 
 ### REDsystem & CyberCommand / La Défense
+
+![Red System](/Assets/redsystem.png)
+
+![Cyber Command](/Assets/cybercommand.png)
+
+![CEO of CyberSecurity](/Assets/ceo.png)
+
+- https://redsystem.io/
+
+- https://www.mil.be/fr/cyber/
