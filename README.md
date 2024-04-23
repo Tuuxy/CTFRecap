@@ -44,7 +44,7 @@ A rubber ducky is  a small USB device that looks like an ordinary USB flash driv
 - Password Theft 
 - Physical Access Attacks
 
-#### You can make it for cheap : 
+#### You can make it for cheap:
 
 ![Cheaper Rubber Ducky](/Assets/pico.png)
 
