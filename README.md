@@ -83,7 +83,8 @@ The challenge included inspecting various elements of the website to uncover hid
    - Accessed through `https://redsystem.io/sitemap.xml`.
    - Sitemaps provide a quick way to find all the pages on a website and are crucial for locating resources that might not be obvious from the homepage or other linked pages.
 
-    ![alt text](assets/sitemap.png) 
+    ![alt text](/Assets/sitemap.png) 
+
 ### Outcome
 
 - After navigating through multiple layers, the flag was finally located deep in a script file.
