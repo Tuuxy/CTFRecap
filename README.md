@@ -12,13 +12,7 @@
 
 ### What are tools that can help on a CTF ?
 
-![Kali](/Assets/kali.jpg)
-
-![Parrot](/Assets/parrot.jpg)
-
-![Black Arch](/Assets/blackarch.png)
-
-![Tools](/Assets/tools.jpg)
+![Kali](/Assets/kali.jpg) ![Parrot](/Assets/parrot.jpg) ![Black Arch](/Assets/blackarch.png) ![Tools](/Assets/tools.jpg)
 
 - Nmap  : Scan and map networks, identify hosts and discover services and vulnerabilities in those hosts.
 - MetaSploit : Vulnerability scanning, exploit development and payload creation.
