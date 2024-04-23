@@ -12,7 +12,13 @@
 
 ### What are tools that can help on a CTF ?
 
-![Kali](/Assets/kali.jpg) ![Parrot](/Assets/parrot.jpg) ![Black Arch](/Assets/blackarch.png) ![Tools](/Assets/tools.jpg)
+![Kali](/Assets/kali.jpg)
+
+![Parrot](/Assets/parrot.jpg)
+
+![Black Arch](/Assets/blackarch.png)
+
+![Tools](/Assets/tools.jpg)
 
 - Nmap  : Scan and map networks, identify hosts and discover services and vulnerabilities in those hosts.
 - MetaSploit : Vulnerability scanning, exploit development and payload creation.
@@ -49,7 +55,7 @@ A rubber ducky is  a small USB device that looks like an ordinary USB flash driv
 
 ### Overview
 
-In this web challenge, the goal was to locate the flag on the website `https://redsystem.io/` without using brute force or fuzzing techniques. 
+In one of the web challenges, the goal was to locate the flag on the website `https://redsystem.io/` without using brute force or fuzzing techniques. 
 
 The challenge included inspecting various elements of the website to uncover hidden or less obvious areas where the flag might be stored.
 
@@ -85,9 +91,14 @@ The challenge included inspecting various elements of the website to uncover hid
 - The process required not only a keen eye on the surface-level elements but also a deeper investigation into the structure and requests made by the web application.
 
 
+In another challenge we needed to find a hidden admin page on a water treatment company's website, which has recently been updated. The premise suggests that the challenge is to prove the site administrator wrong by discovering the supposedly "undiscoverable" admin page. 
+
+-this one was simple - I just attached **/dashboard** to the address and voila. 
+
+
 ### Conclusion
 
-This challenge highlighted the importance of thorough inspection of all accessible web resources, not just those that are immediately visible. Tools like the page source viewer and developer tools were invaluable in dissecting the website's structure and ultimately led to the successful retrieval of the flag.
+This challenges highlighted the importance of thorough inspection of all accessible web resources, not just those that are immediately visible. Tools like the page source viewer and developer tools were invaluable in dissecting the website's structure and ultimately led to the successful retrieval of the flag.
 
 ### Flags Found
 
