@@ -16,7 +16,7 @@
 
 ![Parrot](/Assets/parrot.jpg)
 
-![Black Arch](blackarch.png)
+![Black Arch](/Assets/blackarch.png)
 
 ![Tools](/Assets/tools.jpg)
 
